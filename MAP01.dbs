@@ -16,9 +16,9 @@ maps
 		}
 		defaulttoptexture = "DOR_2";
 		overridemiddletexture = false;
-		viewpositionx = -109.2254f;
-		viewpositiony = -163.1226f;
-		viewscale = 2.971482f;
+		viewpositionx = 360.2395f;
+		viewpositiony = -33.8278f;
+		viewscale = 0.3642716f;
 		overridefloortexture = false;
 		customceilheight = 128;
 		customfloorheight = 0;
@@ -67,12 +67,12 @@ maps
 			{
 				xpanningceiling = 1;
 				ypanningceiling = 1;
-				rotationceiling = 1;
+				rotationceiling = 17;
 				xscaleceiling = 1;
 				yscaleceiling = 1;
 				xpanningfloor = 1;
 				ypanningfloor = 1;
-				rotationfloor = 1;
+				rotationfloor = 17;
 				xscalefloor = 1;
 				yscalefloor = 1;
 			}
