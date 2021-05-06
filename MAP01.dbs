@@ -8,7 +8,7 @@ maps
 	MAP01
 	{
 		scriptcompiler = "zdoom_acs.cfg";
-		defaultfloortexture = "BU_7";
+		defaultfloortexture = "FR_23";
 		overrideceilheight = false;
 		
 		resources
@@ -16,9 +16,9 @@ maps
 		}
 		defaulttoptexture = "DOR_2";
 		overridemiddletexture = false;
-		viewpositionx = 360.2395f;
-		viewpositiony = -33.8278f;
-		viewscale = 0.3642716f;
+		viewpositionx = 148.9784f;
+		viewpositiony = -370.9944f;
+		viewscale = 3.862976f;
 		overridefloortexture = false;
 		customceilheight = 128;
 		customfloorheight = 0;
@@ -31,9 +31,9 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 1f;
+			gridsize = 0.25f;
 		}
-		defaultceiltexture = "BU_7";
+		defaultceiltexture = "FR_23";
 		overridebrightness = false;
 		uselongtexturenames = false;
 		useresourcesinreadonlymode = false;
@@ -97,7 +97,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 156;
+				caretposition = 613;
+				firstvisibleline = 6;
 				activetab = true;
 			}
 		}

@@ -16,9 +16,9 @@ maps
 		}
 		defaulttoptexture = "FR_6";
 		overridemiddletexture = false;
-		viewpositionx = 1539.408f;
-		viewpositiony = -812.1813f;
-		viewscale = 0.8003115f;
+		viewpositionx = -192.7155f;
+		viewpositiony = 349.3049f;
+		viewscale = 11.03302f;
 		overridefloortexture = false;
 		customceilheight = 128;
 		customfloorheight = 0;
