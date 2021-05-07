@@ -16,9 +16,9 @@ maps
 		}
 		defaulttoptexture = "DOR_2";
 		overridemiddletexture = false;
-		viewpositionx = 148.9784f;
-		viewpositiony = -370.9944f;
-		viewscale = 3.862976f;
+		viewpositionx = 213.1105f;
+		viewpositiony = -130.1888f;
+		viewscale = 6.528436f;
 		overridefloortexture = false;
 		customceilheight = 128;
 		customfloorheight = 0;
@@ -31,7 +31,7 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 0.25f;
+			gridsize = 4f;
 		}
 		defaultceiltexture = "FR_23";
 		overridebrightness = false;
@@ -67,12 +67,12 @@ maps
 			{
 				xpanningceiling = 1;
 				ypanningceiling = 1;
-				rotationceiling = 17;
+				rotationceiling = 1;
 				xscaleceiling = 1;
 				yscaleceiling = 1;
 				xpanningfloor = 1;
 				ypanningfloor = 1;
-				rotationfloor = 17;
+				rotationfloor = 1;
 				xscalefloor = 1;
 				yscalefloor = 1;
 			}
@@ -97,8 +97,7 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 613;
-				firstvisibleline = 6;
+				caretposition = 156;
 				activetab = true;
 			}
 		}
