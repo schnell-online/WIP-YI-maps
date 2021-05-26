@@ -16,9 +16,9 @@ maps
 		}
 		defaulttoptexture = "DOR_2";
 		overridemiddletexture = false;
-		viewpositionx = 213.1105f;
-		viewpositiony = -130.1888f;
-		viewscale = 6.528436f;
+		viewpositionx = 45.74605f;
+		viewpositiony = -277.5444f;
+		viewscale = 1.352533f;
 		overridefloortexture = false;
 		customceilheight = 128;
 		customfloorheight = 0;
@@ -31,7 +31,7 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 4f;
+			gridsize = 1f;
 		}
 		defaultceiltexture = "FR_23";
 		overridebrightness = false;
@@ -97,7 +97,7 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 156;
+				caretposition = 26;
 				activetab = true;
 			}
 		}
