@@ -1,0 +1,71 @@
+# MTL for BRIDGE.wad, map BRIDGE
+# Created by GZDoom Builder 2.3.0.2787
+
+newmtl BLD_1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\BLD_1.PNG
+
+newmtl BLD_2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\BLD_2.PNG
+
+newmtl BR_1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\BR_1.PNG
+
+newmtl BU_9
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\BU_9.PNG
+
+newmtl F_SKY10.
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\F_SKY10..PNG
+
+newmtl GRASS1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\GRASS1.PNG
+
+newmtl RROCK03
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\RROCK03.PNG
+
+newmtl STARTAN2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\STARTAN2.PNG
+
+newmtl STONE4
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\STONE4.PNG
+
+newmtl BLD_2
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\BLD_2_FLAT.PNG
+
+newmtl CLD_1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\CLD_1.PNG
+
+newmtl F_SKY1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\F_SKY1.PNG
+
+newmtl F_SKY10.
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\F_SKY10._FLAT.PNG
+
+newmtl FLAT5_7
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\FLAT5_7.PNG
+
+newmtl FWATER3
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\FWATER3.PNG
+
+newmtl GRASS1
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\GRASS1_FLAT.PNG
+
+newmtl RROCK03
+Kd 1.0 1.0 1.0
+map_Kd C:\Users\Hp\Pictures\My textures\Albo\you.inproject\MAP\2021\RROCK03_FLAT.PNG
+
